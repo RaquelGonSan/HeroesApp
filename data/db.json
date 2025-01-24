@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -21,8 +21,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://m.media-amazon.com/images/I/71+AOehzROL._AC_UF1000,1000_QL80_.jpg"
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -46,8 +45,7 @@
       "publisher": "DC Comics",
       "alter_ego": "Oliver Queen",
       "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen",
-      "alt_img": null
+      "characters": "Oliver Queen"
     },
     {
       "id": "dc-wonder",
@@ -56,6 +54,14 @@
       "alter_ego": "Princess Diana",
       "first_appearance": "All Star Comics #8",
       "characters": "Princess Diana"
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Martian Manhunter",
+      "publisher": "DC Comics",
+      "alter_ego": "J\"onn J\"onzz",
+      "first_appearance": "Detective Comics #225",
+      "characters": "Martian Manhunter"
     },
     {
       "id": "dc-robin",
@@ -72,6 +78,14 @@
       "alter_ego": "Dan Garret",
       "first_appearance": "Mystery Men Comics #1",
       "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance"
     },
     {
       "id": "marvel-spider",
@@ -152,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "jlDzak9",
-      "superhero": "Aquaman",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Momoa",
-      "first_appearance": "Aquaman Comics",
-      "characters": "Aquaman",
-      "alt_img": "https://pics.filmaffinity.com/Aquaman-861939771-large.jpg"
     }
   ]
 }
